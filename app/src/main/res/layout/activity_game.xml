@@ -214,10 +214,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textSize="60sp"
-                android:typeface="monospace"
                 android:fontFamily="casual"
-                android:textAlignment="center" />
+                android:textAlignment="center"
+                android:textSize="60sp"
+                android:typeface="monospace" />
 
             <TextView
                 android:id="@+id/nine"
